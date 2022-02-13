@@ -9,4 +9,5 @@ import Foundation
 
 struct MyModel {
     var name = "Tom"
+    var age:Int?
 }
